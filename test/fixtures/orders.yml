@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_id: 
+  order_date: 2016-05-21 13:18:45
+  species: MyString
+  style: MyString
+  notes: MyText
+
+two:
+  customer_id: 
+  order_date: 2016-05-21 13:18:45
+  species: MyString
+  style: MyString
+  notes: MyText
